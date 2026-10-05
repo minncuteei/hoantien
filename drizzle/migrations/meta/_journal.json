@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789640197511,
+      "tag": "0000_cashback_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789640246401,
+      "tag": "0001_admin_profile_read",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789640552796,
+      "tag": "0002_first_user_is_admin",
+      "breakpoints": true
+    }
+  ]
+}
